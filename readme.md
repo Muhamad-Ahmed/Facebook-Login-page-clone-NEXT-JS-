@@ -41,7 +41,7 @@ A professional clone of the Facebook login page built with [Tailwind CSS](https:
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ahmed-shahidd/Facebook-Login-page-clone-NEXT-JS-.git
    cd Facebook-Login-page-clone-NEXT-JS-
    ```
 
